@@ -1,5 +1,5 @@
 ## Credits
-This project is originally from [agents](https://github.com/ed-donner/agents) by [Original Author](https://github.com/ed-donner).
+This project is originally from [agents](https://github.com/ed-donner/agents) by [Ed Donner](https://github.com/ed-donner).
 
 ## Master AI Agentic Engineering -  build autonomous AI Agents
 
